@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kids</string>
+    <string name="hello_world">Welcome to Kids</string>
+    <string name="Start">Start Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_high_score">High:</string>
+    <string name="text_score">Score:</string>
+    <string name="text_game_over">Game Over</string>
+ 	<string name="text_lives">Lives:</string>
+    <string name="displayText"></string>
+    <string name="imageButton2">imageButton2</string>
+    <string name="imageButton1">imageButton1</string>
+    <string name="scoreValue"></string>
+    <string name="livesValue"></string>
+    <string name="game3TextView3"> </string>
+    <string name="Cat">Cat</string>
+    <string name="Dog">Dog</string>
+    <string name="Dinosaur">Dinosaur</string>
+    <string name="Bird">Bird</string>
+     <string name="Elephant">Elephant</string>
+     <string name="Squirrel">Squirrel</string>
+     
+     <string name="text_score3">Score:</string>
+     <string name="scoreView"></string>
+     <string name="text_lives3">Lives:</string>
+     <string name="default_header3"> Cat</string>
+     <string name="text_score2">Score:</string>
+      <string name="text_lives2">Lives:</string>
+      <string name="text_high_score3">High:</string>
+      <string name="text_player_name">First Last Name</string>
+    <string name="text_game_speed">Game Speed</string>
+	<string name="dsiplayScore">Game highest score display here</string>
+    
+    <!-- button -->
+	<string name="text_return">Return</string>
+	<string name="text_settings">Settings</string>
+	<string name="text_start_game">Game 1</string>
+	
+	
+	<string name="text_i_am_there">I\'m there</string>
+	
+	
+	
+	
+	
+    <string name="SettingsSeekBarMidWay">1 secs</string>
+	
+    <string name="LivesLeft">Lives Left: </string>
+    
+    <string name="CurrentScore">Current Score: </string>
+
+   
+	<string name="landscape">wake up landscape mode</string>
+	
+    <!-- default -->
+    <string name="default_name">Player1</string>
+    
+    
+    <!-- text -->
+    <string name="unit_second">second</string>
+    <string name="text_save_question">Do you want to save changing?</string>
+    
+    <!-- 2nd game -->
+    
+
+    <string name="default_header"> Hedaer image</string>
+
+	<string name="text_high_score2">High:</string>
+  	 <string name ="game2button2"> Click</string>
+  	 <string name="game2TextView"> </string>
+	<string name="game2">Game2</string>
+
+	<string name="title">Just woke up</string>
+	<string name="Upsidedown">o o!! wake up upside down</string>
+      
+      
+      <!-- #3rd game -->
+      <string name="game3">Game3</string>
+     <string name="GameLabel1">Click on Right!</string>
+     <string name="text_landscape">OFF</string>
+    <string name="text_Portrait">ON</string>
+  	<string name="RightButton">Press</string>
+ 
+  	
+    <string name="LeftButton">Left</string>
+ 
+    
+     
+
+</resources>
